@@ -2,7 +2,6 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/5thdev/flashy-tabbar-android/master/LICENSE)
 
-![Animation](https://raw.githubusercontent.com/5thdev/liquid-swipe/master/Screenshots/animation.gif)
 
 ## Requirements
 
